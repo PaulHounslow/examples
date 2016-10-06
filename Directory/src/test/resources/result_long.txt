@@ -1,0 +1,22 @@
+/development/examples/Directory/temp
+dir_0                                   68
+dir_1                                   68
+dir_2                                   68
+dir_3                                   68
+dir_4                                   68
+dir_5                                   68
+dir_6                                   68
+dir_7                                   68
+dir_8                                   68
+dir_9                                   68
+file_0                                  0
+file_1                                  0
+file_2                                  0
+file_3                                  0
+file_4                                  0
+file_5                                  0
+file_6                                  0
+file_7                                  0
+file_8                                  0
+file_9                                  0
+

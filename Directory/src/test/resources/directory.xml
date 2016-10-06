@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dir path="/development/examples/Directory/temp">
+  <directory name="dir_0">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_1">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_2">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_3">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_4">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_5">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_6">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_7">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_8">
+    <hidden>false</hidden>
+  </directory>
+  <directory name="dir_9">
+    <hidden>false</hidden>
+  </directory>
+  <file name="file_0">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_1">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_2">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_3">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_4">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_5">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_6">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_7">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_8">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+  <file name="file_9">
+    <size>0</size>
+    <hidden>false</hidden>
+  </file>
+</dir>
