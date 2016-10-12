@@ -31,6 +31,8 @@ import org.xml.sax.SAXException;
 /**
  * Directory listing example.
  *
+ * <p>Now with extra comments to show git work.</p>
+ *
  * @author Paul Hounslow
  */
 public class Directory  implements JSONAware {
